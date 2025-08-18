@@ -27,7 +27,8 @@
 *"Because nothing screams ‘fun weekend’ like debugging Hadoop."*
 
 ---
-![always-in-the-cage](./prison-cage.svg)
+
+<img src="https://raw.githubusercontent.com/Always-in-the-Cage/Always-in-the-Cage/main/prison-cage.svg" alt="always-in-the-cage" width="640">
 
 ---
 
