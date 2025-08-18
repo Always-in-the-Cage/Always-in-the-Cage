@@ -1,7 +1,5 @@
 # 🕳️ Always in the Cage
 
-> "Just another developer, trapped in their own code. Send snacks."
-
 ---
 
 ## About Me  
@@ -14,7 +12,7 @@
 
 ---
 
-## ⚒️ Projects I Pretend to Understand  
+##  Projects I Pretend to Understand  
 
 ###  [simulation-and-analysis-of-topologies-using-SDN-and-Mininet](https://github.com/Always-in-the-Cage/simulation-and-analysis-of-topologies-using-SDN-and-Mininet.git)  
 *"Because drawing network topologies on napkins wasn’t enough."*
@@ -30,13 +28,9 @@
 
 ---
 
-## 🕳️ Cage ASCII Art  
-
-
-|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
-|   Always in the Cage   |
-|________________________|
-
+█████████████████████████
+█   ALWAYS IN THE CAGE  █
+█████████████████████████
 
 
 ---
