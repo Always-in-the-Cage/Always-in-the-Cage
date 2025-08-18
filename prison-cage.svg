@@ -81,7 +81,6 @@
     <text x="320" y="222" fill="#cdd6e0" data-username="always-in-the-cage">always-in-the-cage</text>
     <text x="320" y="214" fill="#8b95a1" opacity="0.0">always-in-the-cage</text>
     <animate href="#frame" attributeName="stroke-width" values="6;7;6" dur="6s" repeatCount="indefinite"/>
-
   </g>
 
   <!-- Tiny ambient particles to give life -->
@@ -100,18 +99,3 @@
     </circle>
   </g>
 </svg>
-
-
-
-/* ---------------------------
-README.md snippet
----------------------------- */
-
-<!-- Place prison-cage.svg at the repo root (or /assets). Then embed like this: -->
-
-<!-- Local path (recommended): -->
-<!-- ![always-in-the-cage](./prison-cage.svg) -->
-
-<!-- Or raw link (replace USER, REPO, BRANCH): -->
-<!-- <img src="https://raw.githubusercontent.com/USER/REPO/BRANCH/prison-cage.svg" alt="always-in-the-cage" width="640"> -->
-
