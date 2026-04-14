@@ -69,13 +69,13 @@
 
   <!-- Cyberpunk Skull Entity -->
   <g id="entity_mover">
-    <!-- X-axis pacing animation -->
+    <!-- X-axis pacing animation (Now goes end-to-end) -->
     <animateTransform attributeName="transform" type="translate"
-      values="120,0; 350,0; 400,0; 250,0; 120,0" dur="8s" repeatCount="indefinite" keyTimes="0; 0.3; 0.5; 0.8; 1"/>
+      values="80,0; 540,0; 80,0" dur="8s" repeatCount="indefinite" />
       
-    <!-- Y-axis ghost floating & Skull drawing (FIXED Y-COORDINATES) -->
-    <g transform="translate(0, 95)">
-      <!-- Ghost hover animation (Fixed math so it stays inside the cage) -->
+    <!-- Y-axis ghost floating & Skull drawing (Lowered Y coordinate to 125) -->
+    <g transform="translate(0, 125)">
+      <!-- Ghost hover animation -->
       <animateTransform attributeName="transform" type="translate" additive="sum"
         values="0,0; 0,-10; 0,5; 0,0" dur="3s" repeatCount="indefinite" keyTimes="0; 0.33; 0.66; 1"/>
         
@@ -110,10 +110,10 @@
           <animate attributeName="r" values="1.5; 2.5; 1.5" dur="1.5s" repeatCount="indefinite"/>
         </circle>
 
-        <!-- Angry shaking when hitting the walls -->
+        <!-- Angry shaking when hitting the right wall (at t=0.5) -->
         <animateTransform attributeName="transform" type="rotate" additive="sum"
-          values="0 0 -30; -3 0 -30; 3 0 -30; 0 0 -30" dur="8s" repeatCount="indefinite" 
-          keyTimes="0; 0.28; 0.32; 1"/>
+          values="0 0 -30; -5 0 -30; 5 0 -30; 0 0 -30" dur="8s" repeatCount="indefinite" 
+          keyTimes="0; 0.48; 0.52; 1"/>
       </g>
     </g>
   </g>
@@ -160,13 +160,13 @@
     <text x="550" y="194" text-anchor="middle" font-size="8" fill="#64748b">(forever pending)</text>
   </g>
 
-  <!-- Flashing "MERGE CONFLICT" when hitting bars -->
+  <!-- Flashing "MERGE CONFLICT" when hitting the right wall -->
   <text x="320" y="110" text-anchor="middle" font-family="ui-monospace, monospace" font-size="28" font-weight="900" fill="#ff0844" filter="url(#neon-red)" opacity="0">
     MERGE CONFLICT!
-    <animate attributeName="opacity" values="0; 1; 0; 0.8; 0" dur="8s" begin="0s" keyTimes="0; 0.28; 0.3; 0.32; 1" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0" dur="8s" begin="0s" keyTimes="0; 0.48; 0.5; 0.52; 1" repeatCount="indefinite"/>
   </text>
 
-  <!-- Software Bugs (Replacing the rats) -->
+  <!-- Software Bugs -->
   <g id="software-bugs" fill="#10b981" stroke="#10b981" stroke-width="1.5">
     <!-- Bug 1 -->
     <g>
