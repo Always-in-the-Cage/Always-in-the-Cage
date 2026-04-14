@@ -1,43 +1,48 @@
 # 🕳️ Always in the Cage
 
----
-
-## About Me  
--  Username checks out: I’m still in the cage.  
--  Specializes in creating bugs faster than antivirus signatures can catch them.  
--  Currently working on projects that will either:  
-- teach me something useful, OR  
-- explode in my face. (50/50 chance)  
-- ☠️ Long-term dream: have my code featured in *The Daily WTF*.  
+> *"There is no escape. Only `Ctrl+C`."*
 
 ---
 
-##  Projects I Pretend to Understand  
-
-###  [simulation-and-analysis-of-topologies-using-SDN-and-Mininet](https://github.com/Always-in-the-Cage/simulation-and-analysis-of-topologies-using-SDN-and-Mininet.git)  
-*"Because drawing network topologies on napkins wasn’t enough."*
-
-###  [Cloud-Assignment](https://github.com/always-in-the-cage/Cloud-Assignment)  
-*"Yes, it’s homework. Yes, I’m shamelessly uploading it."*
-
-### [Momentz](https://github.com/Mahrokh-M/Momentz)  
-*"The project I barely remember… fitting name, right?"*
-
-### [Hadoop-MapReduce-Project](https://github.com/Mahrokh-M/Hadoop-MapReduce-Project)  
-*"Because nothing screams ‘fun weekend’ like debugging Hadoop."*
+## 🦇 About Me  
+- Still locked in the cage. The Wi-Fi is terrible, but the compiler warnings keep me warm.  
+- I specialize in writing code that acts like malware, even when it's not supposed to.  
+- Currently engineering solutions to problems that shouldn't exist, with a 50/50 chance of summoning a daemon or a segmentation fault.  
+- ☠️ Long-term goal: Write a payload so beautiful it makes the Incident Response team cry.  
 
 ---
 
-<img src="https://raw.githubusercontent.com/Always-in-the-Cage/Always-in-the-Cage/main/prison-cage.svg" alt="always-in-the-cage" width="640">
+## 🗄️ Weapons of Mass Frustration (My Projects)  
+
+### 🛡️ [CipherShield v2.0](https://github.com/Always-in-the-Cage/ciphershield)
+*Multithreaded C & OpenSSL Encryption Toolkit*  
+Because if I'm going to accidentally lock myself out of my own files forever, I at least want to do it efficiently using parallel processing and AES-256. 
+
+### 🐀 [TerrorRAT](https://github.com/Always-in-the-Cage/TerrorRAT)
+*Encrypted Python C2 Server & Remote Access Tool*  
+A completely "educational" project. And by educational, I mean I learned exactly how easy it is to watch myself type from across the network. Comes with stealth screenshots, because trust is a myth. 
+
+### ☢️ [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) (Contributor)
+*Library of simple, atomic tests mapped to the MITRE ATT&CK framework*  
+Yes, I contribute to the very tools used to test defenses against the things I write. I'm playing both sides so I always come out on top (or at least guarantee job security).
+
+### 🕰️ [Momentz](https://github.com/Mahrokh-M/Momentz)  
+A monument to forgotten commits, merge conflicts, and abandoned dreams. 
+
+### 🐘 [Hadoop-MapReduce-Project](https://github.com/Mahrokh-M/Hadoop-MapReduce-Project)  
+Distributed suffering. Because nothing screams "fun weekend" quite like debugging Java stack traces across multiple nodes until you lose the will to live.
 
 ---
 
-## 📉 Skills (According to Me)
-
-![status](https://img.shields.io/badge/status-barely%20working-critical)  
-![skills](https://img.shields.io/badge/skills-googling%20errors-brightgreen)  
-![coffee](https://img.shields.io/badge/fuel-99%25%20coffee-lightgrey)  
-![debugging](https://img.shields.io/badge/debugging-crying%20quietly-blue)  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Always-in-the-Cage/Always-in-the-Cage/main/prison-cage.svg" alt="Dependency Hell SVG" width="640">
+</div>
 
 ---
 
+## 📉 Skills (According to the Voices in My Head)
+
+![status](https://img.shields.io/badge/Status-Barely_Compiling-critical?style=for-the-badge)  
+![skills](https://img.shields.io/badge/Skills-StackOverflow_Plagiarism-brightgreen?style=for-the-badge)  
+![fuel](https://img.shields.io/badge/Fuel-Spite_%26_Caffeine-lightgrey?style=for-the-badge)  
+![debugging](https://img.shields.io/badge/Debugging-Staring_Into_The_Abyss-blue?style=for-the-badge)
