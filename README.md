@@ -63,7 +63,3 @@ Distributed systems practice.
 ![Documentation](https://img.shields.io/badge/Documentation-Public_Notes-lightgrey?style=for-the-badge)
 
 </div>
-
----
-
-> *Digital notes repository: [Mahshid-MSH.github.io](https://Mahshid-MSH.github.io)*
