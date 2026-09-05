@@ -13,14 +13,19 @@
 ---
 
 ## 🎯 Focus
+Malware Analysis – Developing proficiency in static and dynamic analysis, with an emphasis on execution flow, Windows internals, and reverse engineering.
+Offensive Machine Learning – Exploring adversarial examples, model evasion, and security implications of ML systems from an attacker's perspective.
+CTF & Reversing – Solving structured challenges to strengthen exploitation, binary analysis, and reverse-engineering skills.
 
-- **Malware Analysis** – Currently developing proficiency in static and dynamic analysis techniques, focusing on execution flow and OS internals. [digital-notes](https://Mahshid-MSH.github.io) serves as the ongoing research log.
-- **Offensive Machine Learning** – Exploring model weaponization and adversarial evasion. The goal is to understand ML vulnerabilities from an attacker's perspective, not for data science.
-- **CTF & Reversing** – Solving structured challenges to refine exploitation skills and reverse engineering methodologies.
-
----
+## 📚 Technical Writeups & Research Notes
+My digital notes document hands-on experiments, CTF writeups, reverse-engineering exercises, malware-analysis workflows, and cybersecurity research.
+→ **[Explore the full collection of technical notes & writeups](https://mahshid-msh.github.io/)**
 
 ## 🗄️ Projects
+
+### 🐉 [GhidraHush](https://github.com/Mahshid-MSH/GhidraHush)
+*LLM-Assisted Binary Analysis, Source Reconstruction & Code Diversification*
+Research project exploring automated reconstruction of readable and compilable C/C++ code from compiled binaries using Ghidra, compiler-aware analysis, dependency recovery, API resolution, and LLM-assisted source refinement. The project also investigates code-transformation and obfuscation techniques for evaluating their impact on static antivirus detection and binary analysis.
 
 ### 🛡️ [CipherShield v2.0](https://github.com/Mahshid-MSH/ciphershield)
 *Multithreaded C & OpenSSL Encryption Toolkit*  
@@ -33,10 +38,6 @@ Educational simulation platform built to analyze network protocol evasion and re
 ### ☢️ [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) (Contributor)
 *MITRE ATT&CK Test Library*  
 Active contributor to open-source defense validation and detection engineering tests.
-
-### 🤖 Offensive ML Lab (In Development)
-*Adversarial Examples & Model Evasion Techniques*  
-Research repository for generating adversarial inputs and exploring model extraction methods.
 
 ### 🐘 [Hadoop-MapReduce-Project](https://github.com/Mahrokh-M/Hadoop-MapReduce-Project)  
 Distributed systems practice.
