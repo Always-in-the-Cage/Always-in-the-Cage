@@ -13,9 +13,9 @@
 ---
 
 ## 🎯 Focus
-Malware Analysis – Developing proficiency in static and dynamic analysis, with an emphasis on execution flow, Windows internals, and reverse engineering.
-Offensive Machine Learning – Exploring adversarial examples, model evasion, and security implications of ML systems from an attacker's perspective.
-CTF & Reversing – Solving structured challenges to strengthen exploitation, binary analysis, and reverse-engineering skills.
+- **Malware Analysis** – Developing proficiency in static and dynamic analysis, with an emphasis on execution flow, Windows internals, and reverse engineering.
+- **Offensive Machine Learning** – Exploring adversarial examples, model evasion, and security implications of ML systems from an attacker's perspective. 
+- **CTF & Reversing** – Solving structured challenges to strengthen exploitation, binary analysis, and reverse-engineering skills.
 
 ## 📚 Technical Writeups & Research Notes
 My digital notes document hands-on experiments, CTF writeups, reverse-engineering exercises, malware-analysis workflows, and cybersecurity research.
